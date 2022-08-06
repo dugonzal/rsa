@@ -7,8 +7,7 @@
 	 3. El cliente recibe estos datos y los descifra con su clave privada.
    
  # uso de rsa
- 
-  1. primero debemos crear un entrono virtual para instalar los paquetese necesarios
-    - si tienes instalado pip puedes hacerlo con pip virtualenv, una vez echo esto, virtualenv venv
-    - activamos el entorno virtual con: source venv/bin/activate
-    - intalamos requirements.txt con el comando pip install -r requirements.txt
+ 	- primero debemos crear un entrono virtual para instalar los paquetese necesarios,
+    	 si tienes instalado pip puedes hacerlo con pip virtualenv, una vez echo esto, usamos el comando virtualenv venv,
+	 para crear el entorno virtual activamos el entorno virtual con: source venv/bin/activate
+    	 intalamos requirements.txt con el comando pip install -r requirements.txt
